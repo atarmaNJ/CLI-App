@@ -1,4 +1,5 @@
 var readLineSync=require('readline-sync')
+var chalk=require('chalk')
 
 var score=0
 function play(question,answer){
